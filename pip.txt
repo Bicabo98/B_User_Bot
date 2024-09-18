@@ -1,0 +1,4 @@
+requests
+colorama
+loguru==0.7.2
+
